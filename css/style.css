@@ -461,7 +461,7 @@ a:hover {
 	cursor: pointer;
 }
 .logo-wrap img{
-	height:12px;
+	height:55px;
 	width:auto;
 	display:block;
 	cursor: pointer;
@@ -1102,13 +1102,13 @@ body.nav-active .nav__list-item:nth-child(10) {
 	margin-top: -40px;	
 }
 .case-study-images li h2.fullscreen-image{
-	color: #353746;
+	color: #ff348569;
 }
 .case-study-images li h2.fullscreen-image.no-blur{
 	background: none;
-	-webkit-background-clip: #353746;
-	-webkit-text-fill-color: #353746;
-	color: #353746;
+	-webkit-background-clip: #ff348569;
+	-webkit-text-fill-color: #ff348569;
+	color: #ff348569;
 	mix-blend-mode: screen;
 }
 .case-study-images li.show h2 {
@@ -2479,7 +2479,7 @@ figure.vimeo a img, figure.youtube a img {
 	font-size: 14px;
 	font-weight: 500;
 	letter-spacing: 1px;
-	color: #fff;
+	color: #ff3485;
 	display: inline-block;
     -webkit-transition: all 200ms linear;
     transition: all 200ms linear; 
@@ -2498,7 +2498,7 @@ figure.vimeo a img, figure.youtube a img {
 	font-size: 14px;
 	font-weight: 400;
 	letter-spacing: 1px;
-	color: #fff;
+	color: #ff3485;
 	transform: rotate(180deg);
 }
 .copyr.bottom-name {
