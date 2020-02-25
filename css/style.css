@@ -48,7 +48,7 @@ h3, .h3 {
 h4, .h4 {
 	font-size: 1.9rem;
 	font-weight: 400;
-    color: #ff3485;
+    color: #ffd738d9;
 }
 h5, .h5 {
 	font-size: 1.35rem;
@@ -684,7 +684,7 @@ a:hover {
 	color: #FFCC00;
 }
 .nav__list-item.active-nav a{
-	color: #ffcc0073;
+	color: #FFCC00;
 }
 .nav__list-item.active-nav a:after{ 
 	height: 20px;
@@ -703,7 +703,7 @@ body.nav-active .cd-header.is-fixed {
 body.nav-active .cd-header.is-visible {
 }
 body.nav-active .menu-icon__line {
-	background-color: #fff;
+	background-color: #FFCC00;
 	-webkit-transform: translate(0px, 0px) rotate(-45deg);
           transform: translate(0px, 0px) rotate(-45deg);
 }
