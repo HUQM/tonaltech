@@ -1636,16 +1636,19 @@ figure.vimeo a img, figure.youtube a img {
 }
 .studio-list {
 	padding: 0;
+    padding-left: 50px;
 	margin: 0;
 	list-style: none;
 }
 .studio-list li {
 	position: relative;
+    font-size: 20px;
 	padding: 0;
 	margin: 0;
-	padding-left: 40px;
+	padding-left: 30px;
 	margin-bottom: 8px;
-	list-style: none;
+	/*list-style: none;*/
+    list-style-type:upper-roman;
 }
 .studio-list li:last-child {
 	margin-bottom: 0;
