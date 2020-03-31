@@ -2754,6 +2754,12 @@ figure.vimeo a img, figure.youtube a img {
 		-webkit-transform: translate3d(0,0,0);
 		transform: translate3d(0,0,0);
 	}
+    .sponsor-logo {
+        max-height:150px !important;
+    }
+    .sponsor-logo-2 {
+        max-height:100px !important;
+    }
 }
 
 @media (max-width: 575px) {
@@ -2781,17 +2787,10 @@ figure.vimeo a img, figure.youtube a img {
 		letter-spacing: 0;
 		font-size: 14px;
 	}
+    .sponsor-logo {
+        max-height:90px !important;
+    }
+    .sponsor-logo-2 {
+        max-height:70px !important;
+    }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
